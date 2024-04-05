@@ -2,7 +2,7 @@
 title: David Ogilvy Insights On Sales and Business Development
 description: Key insights and philosophy for sales and business development for your business from David Ogilvy
 aliases: 
-draft: true
+draft: false
 tags: 
 date: 2024-04-05
 ---
