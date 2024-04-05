@@ -3,6 +3,7 @@ import { QuartzPluginData } from "../plugins/vfile"
 import { Date, getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import { GlobalConfiguration } from "../cfg"
+import { Description } from "../plugins"
 
 export function byDateAndAlphabetical(
   cfg: GlobalConfiguration,
@@ -39,6 +40,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit }: Pr
     <ul class="section-ul">
       {list.map((page) => {
         const title = page.frontmatter?.title
+        const description = page.frontmatter?.description
         const tags = page.frontmatter?.tags ?? []
 
         return (
@@ -54,6 +56,9 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit }: Pr
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                     {title}
                   </a>
+                  <p>
+                    {description}
+                  </p>
                 </h3>
               </div>
               <ul class="tags">
