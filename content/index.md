@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Kiran Brahma
 description: Welcome to Kiran Brahm's blog
 ---
 # Hey there! 👋
