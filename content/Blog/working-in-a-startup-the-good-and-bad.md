@@ -3,7 +3,9 @@ title: Working in a Startup (The Good & Bad)
 description: Working in a startup is not everyone's cup of team. Understand from my personal experience what it takes to work in one and what to expect
 aliases: 
 draft: false
-tags: 
+tags:
+  - Startup
+  - Lessons
 date: 2024-03-05
 ---
 

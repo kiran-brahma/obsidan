@@ -6,6 +6,7 @@ aliases:
 draft: false
 tags:
   - Startup
+  - Lessons
 date: 2024-04-05
 ---
 Over the years, I have accumulated a multitude of knowledge across various facets of running your business through experience, readings and discussions with peers.
@@ -133,7 +134,7 @@ You can refer to my blog post on [Validating Business Ideas](https://kiranbrahma
 
   ## Improve Decision Making
 
-  We can improve our decision making, drawing lessons from our past decisions by following these steps:
+  We can improve our decision-making, drawing lessons from our past decisions by following these steps:
 
   - Identify a past decision that was similar to the current one in terms of risk and uncertainty.
   - Analyse the variables that influenced your decision, such as your goals, values, emotions, assumptions, and information sources.
@@ -144,4 +145,4 @@ You can refer to my blog post on [Validating Business Ideas](https://kiranbrahma
 
   Regularly doing this exercise can reduce anxiety and increase confidence when making bold decisions. Seeking feedback from others who have relevant expertise or have made similar decisions is also advised. Finally, it is important to remember that bold decisions often lead to personal growth and fulfilment, even if they don't turn out as planned.
 
-You can refer to my posts on [decision-making](/tags/decision-making) to read more on this
+You can refer to my posts on [decision-making](/tags/Decision-Making) to read more on this

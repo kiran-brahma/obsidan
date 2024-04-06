@@ -8,9 +8,6 @@ date: 2024-04-05
 
 A list of Books that I would recommend for reading. I update this list monthly
 ![Recommended Reading List by Kiran Brahma](https://i.imgur.com/jhsYxyT.jpeg)
-
-<Picture inferSize fetchpriority src="https://i.imgur.com/jhsYxyT.jpeg" alt="Recommended Books for Reading" />
-
 ## Business Biographies
 
 ---
@@ -25,13 +22,13 @@ Learn from the story of India's first e-commerce company that failure can be jus
 
 Find out what happens when the Silicon Valley mantra of “fake it till you make it” is taken to the extreme with [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://amzn.to/3AWudHD).
 
-Read [Skunk Works: A Personal Memoir of My Years of Lockheed](https://amzn.to/3RMD71v) to discover how it is possible to achieve the seemingly impossible.
+Read [Skunk Works: A Personal Memoir of My Years at Lockheed](https://amzn.to/3RMD71v) to discover how it is possible to achieve the seemingly impossible.
 
-Learn a key business lesson from each of the 12 stories in [Business Adventures](https://amzn.to/3qdTYOZ).
+Learn a key business lesson from each of the 12 stories in [Business Adventures](https://amzn.to/3qdTYOZ)
 
 Discover how Pixar has consistently produced hit after hit, and learn how to create and maintain a creative work environment with [Creativity, Inc](https://amzn.to/3dYz6Zh).
 
-Find out what it took for Intel to become the chip giant it is today with [Only the Paranoid Survive](https://amzn.to/3BhZczu).
+Find out what it took for Intel to become the chip giant it is today with [Only the Paranoid Survive](https://amzn.to/3BhZczu)
 
 ## Business Management & Leadership
 
@@ -49,9 +46,9 @@ Find out what it took for Intel to become the chip giant it is today with [Only 
 
 [The Art of Thinking Clearly](https://amzn.to/3TMfQyr) - A must-read for anyone keen to understand how to improve their decision-making process, this book helps you grasp all the flaws in our thinking process.
 
-[Superforecasting: The Art and Science of Prediction](https://amzn.to/3d1ldZZ) - Understand how Probabilistic Thinking can aid you in thinking about decisions in a more holistic manner than the usual binary form we use daily. (My Personal Notes)
+[[superforecasting-the-art-and-science-of-prediction|Superforecasting: The Art and Science of Prediction]] - Understand how Probabilistic Thinking can aid you in thinking about decisions in a more holistic manner than the usual binary form we use daily. 
 
-[Predictably Irrational: The Hidden Forces that Shape Our Decisions](https://amzn.to/3Rvs3Wu) - This book introduced me to [Behavioral Economics](https://en.wikipedia.org/wiki/Behavioral_Economics), a topic everyone should be well aware of. It's a highly engaging read that opens your mind to new thinking.
+[Predictably Irrational: The Hidden Forces that Shape Our Decisions](https://amzn.to/3Rvs3Wu) - This book introduced me to [Behavioural Economics](https://en.wikipedia.org/wiki/Behavioral_Economics), a topic everyone should be well aware of. It's a highly engaging read that opens your mind to new thinking.
 
 ## Startup
 
@@ -59,9 +56,11 @@ Find out what it took for Intel to become the chip giant it is today with [Only 
 
 [Art of the Start 2.0](https://amzn.to/3dXNpgT) - The go-to book for those keen to start a business and need simple, actionable advice.
 
-[The Hard Thing about Hard Things](https://amzn.to/3fk8jXJ) - Understand what it takes to keep a business running, the challenges one faces, and what one can do to keep moving forward.
+[The Hard Thing About Hard Things](https://amzn.to/3fk8jXJ) - Understand what it takes to keep a business running, the challenges one faces, and what one can do to keep moving forward.
 
-[ReWork: Change the Way You Work Forever](https://amzn.to/3y3FAx8) - One of my personal favorites. A book that teaches you how to build various facets of a business rather than worrying about funding.
+[ReWork: Change the Way You Work Forever](https://amzn.to/3y3FAx8) - One of my personal favourites. A book that teaches you how to build various facets of a business rather than worrying about funding.
+
+[[zero-to-one|Zero to One]] - Though this book is highly recommended by many, I don't share the same enthusiasm. However, the book is still a great read to get an understanding of what it takes to build a good company while providing a good discussion on how to achieve [[product-market-fit|product-market fit]]
 
 ## Finance & Investment
 
@@ -69,7 +68,7 @@ Find out what it took for Intel to become the chip giant it is today with [Only 
 
 [The Intelligent Investor](https://amzn.to/3E30XCr) is a book that will help you build the mindset to be an investor for the long term.
 
-[The Psychology of Money](https://amzn.to/3y4V6IP) teaches the various aspects of financial management, while paving your mindset to develop healthy financial habits.
+[The Psychology of Money](https://amzn.to/3y4V6IP) teaches the various aspects of financial management while paving your mindset to develop healthy financial habits.
 
 [Capitalism without Capital: The Rise of the Intangible Economy](https://amzn.to/3SIkU5p) helps you understand why GDP is not the holy grail to determine growth and what is driving today's economic growth.
 
@@ -79,7 +78,7 @@ Find out what it took for Intel to become the chip giant it is today with [Only 
 
 Love it or hate it, [Software is indeed eating the world](https://azexplained.com/how-software-is-eating-the-world/). Rather than worrying about philosophical aspects, pick up tips and habits from the book [Algorithms to Live By: The Computer Science of Human Decisions](https://amzn.to/3SIT357) that can help you improve your life.
 
-[The Book of Beautiful Questions](https://amzn.to/47F7f7N) helps you realize that asking the proper inquiries is just as vital as locating solutions since it enables you to figure out if you're truly addressing the real issue in question. Posing the right questions early on can guide you towards more effective solutions.
+[The Book of Beautiful Questions](https://amzn.to/47F7f7N) helps you realise that asking the proper inquiries is just as vital as locating solutions since it enables you to figure out if you're truly addressing the real issue in question. Posing the right questions early on can guide you towards more effective solutions.
 
 ## Biographies
 
@@ -87,7 +86,7 @@ Love it or hate it, [Software is indeed eating the world](https://azexplained.co
 
 [Einstein: His Life and Universe](https://amzn.to/3BsLxFX) - Understand the marvels and flaws of one of the greatest minds in science.
 
-[The Last Man Who Knew Everything: The Life & Times Of Enrico Fermi, Father Of The Nuclear Age](https://amzn.to/3KWKlxz) - [The Manhattan Project](https://en.wikipedia.org/wiki/Manhattan%5C%5C_Project) paved the way for Nuclear energy. Get a better understanding of this key figure by reading about his life and times.
+[The Last Man Who Knew Everything: The Life & Times Of Enrico Fermi](https://amzn.to/3KWKlxz) - [The Manhattan Project](https://en.wikipedia.org/wiki/Manhattan%5C%5C_Project) paved the way for Nuclear energy. Get a better understanding of this key figure by reading about his life and times.
 
 [Surely You're Joking Mr Feynman: Adventures of a Curious Character](https://amzn.to/3BnYDEk) - A collection of stories and letters, revealing Richard Feynman, who I became a big fan of after reading his [lectures](https://www.feynmanlectures.caltech.edu/).
 
@@ -103,9 +102,7 @@ Love it or hate it, [Software is indeed eating the world](https://azexplained.co
 
 [A Short History of Nearly Everything](https://amzn.to/3dZJkJ2) is a book to understand almost everything under the sun. It's a highly engaging read that can be read multiple times.
 
-[Chip War by Weinersmith](https://amzn.to/3WS9iP9) offers an insightful look into the evolution of computer chips. It examines the chip industry's past and present,
-
-plus what the future holds. It's a must-read for those wanting to understand the chip industry and tech driving it.
+[Chip War by Weinersmith](https://amzn.to/3WS9iP9) offers an insightful look into the evolution of computer chips. It examines the chip industry's past and present, plus what the future holds. It's a must-read for those wanting to understand the chip industry and the tech driving it.
 
 ## Science
 
@@ -115,14 +112,14 @@ plus what the future holds. It's a must-read for those wanting to understand the
 
 [How God Works](https://amzn.to/3LSKse7) - Understand why religion holds sway over most people. This book explores how religious rituals benefit people and what one can learn from them, even if they don't believe in them.
 
-[WHAT IF?](https://amzn.to/3SIVIvD) - Clear, logical answers to some of the most absurd questions people can come up with on the internet. The author doesn't just provide a simple answer, but expands on it far beyond what is expected.
+[WHAT IF?](https://amzn.to/3SIVIvD) - Clear, logical answers to some of the most absurd questions people can come up with on the internet. The author doesn't just provide a simple answer but expands on it far beyond what is expected. His [webcomics](https://xkcd.com/about/) are a real treasure trove
 
 ## Fiction
 
 ---
 
-[The Three-Body Problem: 1 (The Three-Body Problem Series, 1)](https://amzn.to/3SJ2xgL) - A science fiction novel that begins with the Cultural Revolution in China. It slowly reveals how this sets the stage for the events that unfold in the story.
+[The Three-Body Problem: 1 (The Three-Body Problem Series, 1)](https://amzn.to/3SJ2xgL) - A science fiction novel that begins with the Cultural Revolution in China. It slowly reveals how this sets the stage for the events that unfold in the story. The first book has been serialised on [Netflix](https://www.netflix.com/in/title/81024821)
 
-[Ready Player One](https://amzn.to/3y4BggN) - This book presents a dystopian world where augmented and virtual reality are part of everyday life. It contains multiple references to 1980s pop culture, making it an engaging read that captures your attention with a storyline that depicts a new class divide and explores what life could be like when AR/VR become mainstream.
+[Ready Player One](https://amzn.to/3y4BggN) - This book presents a dystopian world where augmented and virtual reality are part of everyday life. It contains multiple references to 1980s pop culture, making it an engaging read that captures your attention with a storyline that depicts a new class divide and explores what life could be like when AR/VR becomes mainstream. A [movie](https://en.wikipedia.org/wiki/Ready_Player_One_(film)) has been made on the book but personally, reading the book is a better experience
 
-[The Broken Earth Trilogy](https://amzn.to/3Cl7Xcs) - This rare series was awarded the Hugo Award for each individual book. It is set in a world of volcanoes and earthquakes, presenting a unique world that takes some time to decipher, but once you do, there is no turning back.
+[The Broken Earth Trilogy](https://amzn.to/3Cl7Xcs) - This rare series was awarded the Hugo Award for each book. It is set in a world of volcanoes and earthquakes, presenting a unique world that takes some time to decipher, but once you do, there is no turning back.

@@ -3,7 +3,10 @@ title: Effective Communication during a Business Crisis
 description: Navigate crises with transparency and empathy. A simple case study from my business on how  to communicate effective when things go bad
 aliases: 
 draft: false
-tags: 
+tags:
+  - Business
+  - Communication
+  - Decision-Making
 date: 2024-04-05
 ---
 

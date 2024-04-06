@@ -3,7 +3,9 @@ title: Merging your Intuition with Analytics
 description: Data without a good underlying model to understand never succeeds. Understand how to develop a mental model for your intituion
 aliases: 
 draft: false
-tags: 
+tags:
+  - Decision-Making
+  - Analytics
 date: 2024-04-05
 ---
 
@@ -30,7 +32,7 @@ During my MBA studies at ISB, I came across the book ["Predictably Irrational" b
 
 ## Why our Intuition fails us
 
-In our current business landscape, data serves as the foundation for every decision. During my Statistics course at ISB, the professor always emphasized that "Correlation does not mean causation". Reflecting on my professional journey, I can recall numerous occasions where my team's data-driven insights proved me wrong. Over time, I accepted the notion that opinions arrived without any data backing are just opinions and not insights.
+In our current business landscape, data serves as the foundation for every decision. During my Statistics course at ISB, the professor always emphasised that "Correlation does not mean causation". Reflecting on my professional journey, I can recall numerous occasions where my team's data-driven insights proved me wrong. Over time, I accepted the notion that opinions arrived without any data backing are just opinions and not insights.
 
 We need to acknowledge that everything around us is changing much faster than we can comprehend, a pace that continues to accelerate. Many commonly held beliefs are based on limited observations rather than absolute truths, as evident in the replacement of Newton's Laws of Motion with Einstein's theory of relativity in our understanding of motion
 
@@ -51,11 +53,11 @@ Let's consider an example: You're hiring a sales manager, evaluating candidates 
 - Experience with Digital Tools: 15%
 - Team Management Experience: 15%
 
-You score each candidate against each attribute, compute the final score and make offer to the an candidate with the highest score
+You score each candidate against each attribute, compute the final score and make an offer to the candidate with the highest score
 
 The beauty of this easy-to-implement model is its adaptability. You can develop simple models for key decisions, allowing for a more analytical rigour to your decisions when lacking data.
 
-This approach is inspired by the article [Models and Managers: The Concept of a Decision Calculus by John D. C. Little](https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.16.8.B466). Explicitly stating our assumptions upfront and building simple models lets us build rigour in our decisions. Just building simple mental models helps us in avoiding biases we are surrounded with.
+This approach is inspired by the article [Models and Managers: The Concept of a Decision Calculus by John D. C. Little](https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.16.8.B466). Explicitly stating our assumptions upfront and building simple models lets us build rigour in our decisions. Just building simple mental models helps us avoid biases we are surrounded with.
 
 ## Further Reading
 

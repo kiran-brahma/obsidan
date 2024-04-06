@@ -3,7 +3,10 @@ title: Zero To One
 description: Explore how innovation shapes the future of business, startups, and the world. Insights from a celebrated investor on creating a successful startup.
 aliases: 
 draft: false
-tags: 
+tags:
+  - Startup
+  - Lessons
+  - Product-Market-Fit
 date: 2024-04-05
 ---
 ## About the Book

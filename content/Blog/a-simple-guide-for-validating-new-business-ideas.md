@@ -10,16 +10,16 @@ date: 2024-04-05
 
 ## Key Takeaways
 
-- Concentrate efforts on addressing the most critical issues faced by customers
-- Always articulate the problem in one sentence before proceeding with any solution.
-- Prioritise problems based on whether they need to be fixed, are good to be fixed, or nice to be fixed.
-- Understand how customers currently are solving the problem
-- Recognise customer concerns and ensure new solutions integrate smoothly with their current processes.
-- Engage with customers who show genuine interest and align with budget constraints, focusing efforts on those most likely to commit.
+- Focus efforts on resolving the most pressing customer issues.
+- Begin by succinctly defining the problem in a single sentence before exploring solutions.
+- Prioritize issues based on their necessity for resolution, distinguishing between those that must, should, or could be addressed.
+- Investigate the methods customers are currently employing to tackle the problem.
+- Acknowledge customer apprehensions and guarantee that new solutions are compatible with their existing workflows.
+- Target engagement towards customers who demonstrate a real interest and whose budgetary limitations align, concentrating on those with a higher propensity to commit.
 
 ## Introduction
 
-Every other day a new idea keeps popping into my head on how I can launch a new service within the context of my [business.](https://knighthood.co) Now when you are flush with new ideas, the challenge is not generating enough ideas but is the idea good for solving a Tier 1 Problem or not. Over the years, I have realised that most new ideas launched failed due to it not being a Tier 1 Problem.
+Every other day a new idea keeps popping into my head on how I can launch a new service within the context of my [business.](https://knighthood.co) Now when you are flush with new ideas, the challenge is not generating enough ideas but is the idea is good for solving a Tier 1 Problem or not. Over the years, I have realised that most new ideas launched failed due to it not being a Tier 1 Problem.
 
 Considering that we all have limited time and resources at hand, we must focus only on solving a Tier 1 problem. In this blog post, I am articulating the process I have developed after feedback from multiple friends, books, articles and personal experience
 
