@@ -18,7 +18,7 @@ Head [[about|here]] if you want to know more about me.
  * A list of [[recommended-reading|books]] that I recommend for reading to my friends
  * Summary of key learnings from [[Books/index|books]] I read
  * A collection of [[Journal/index|business insights and tips]] I have collated over the years 
- * You can explore based on a specific [topic](/Tags)
+ * You can explore based on a specific [topic](/tags)
  * I enjoy photography and update my [online gallery](https://photos.kiranbrahma.com) whenever time permits
  * Every topic has some suggested reading that you can explore further if you interested 
  
