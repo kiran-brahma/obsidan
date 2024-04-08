@@ -19,7 +19,7 @@ date: 2024-04-05
 
 In a recent article, I came across his philosophy toward Sales and Business Development, which I found is practical for most of us learning the ropes of Sales as we go along building our Business.
 
-## Business Development Advise
+## Business Development and Sales Philosophy
 
 - Regard the hunt for a new client as a sport
   - Get Serious after you get a client. Till then play to win but focus on making it an enjoyable process

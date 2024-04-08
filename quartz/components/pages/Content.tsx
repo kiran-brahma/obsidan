@@ -1,6 +1,5 @@
 import { htmlToJsx } from "../../util/jsx"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
-import { inject } from '@vercel/analytics';
 
 
 const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {

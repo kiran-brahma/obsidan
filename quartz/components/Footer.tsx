@@ -13,6 +13,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <hr />
+        <div class="navbar">
         <p>
          <a href="https://kiranbrahma.com" target="_blank">Kiran Brahma's</a> Personal Notes {year} 
         </p>
@@ -29,6 +30,8 @@ export default ((opts?: Options) => {
             </li>
     
         </ul>
+        </div>
+        
       </footer>
     )
   }

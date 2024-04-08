@@ -2,8 +2,8 @@ import { Translation } from "./definition"
 
 export default {
   propertyDefaults: {
-    title: "Untitled",
-    description: "No description provided",
+    title: "Kiran Brahma",
+    description: "Kiran Brahma personal website where I share on all things that interest me",
   },
   components: {
     callout: {
@@ -22,15 +22,15 @@ export default {
       quote: "Quote",
     },
     backlinks: {
-      title: "Backlinks",
-      noBacklinksFound: "No backlinks found",
+      title: "Further Readings",
+      noBacklinksFound: "None",
     },
     themeToggle: {
       lightMode: "Light mode",
       darkMode: "Dark mode",
     },
     explorer: {
-      title: "Explorer",
+      title: "Explore",
     },
     footer: {
       createdWith: "Created with",
@@ -64,20 +64,20 @@ export default {
     },
     error: {
       title: "Not Found",
-      notFound: "Either this page is private or doesn't exist.",
+      notFound: "This page is still under development.",
     },
     folderContent: {
-      folder: "Folder",
+      folder: "Segment",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
+        count === 1 ? "1 Posts under this Segment." : `${count} Posts under this Segment.`,
     },
     tagContent: {
-      tag: "Tag",
-      tagIndex: "Tag Index",
+      tag: "Topics",
+      tagIndex: "Index of all Topics",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "1 item with this tag." : `${count} items with this tag.`,
-      showingFirst: ({ count }) => `Showing first ${count} tags.`,
-      totalTags: ({ count }) => `Found ${count} total tags.`,
+        count === 1 ? "1 posts in this topic." : `${count} posts in this topic.`,
+      showingFirst: ({ count }) => `Showing first ${count} topics.`,
+      totalTags: ({ count }) => `Found ${count} total topics.`,
     },
   },
 } as const satisfies Translation

@@ -34,7 +34,7 @@ date: 2024-04-05
 - **Finance**
   - Cost Structure
   - Financial Management
-- **Why Startups Fail**
+- [[why-startups-fail|Why Startups Fail]]
 
 ### Topics Detailed in Annexure
 
@@ -51,10 +51,6 @@ date: 2024-04-05
 
 <iframe
   src="https://docs.google.com/presentation/d/e/2PACX-1vRQdMMgqpcZ0B1nC-axgwiU8VX2HOz-rspjEb91Y3hIo-EcnM2dKshgm_d5zWbkhoJitesxa_9QlGsA/embed?start=false&loop=false&delayms=3000"
-  frameborder="0"
-  width="600"
-  height="375"
-  allowfullscreen="true"
-  mozallowfullscreen="true"
-  webkitallowfullscreen="true"
+width="500"
+height="300"
 ></iframe>

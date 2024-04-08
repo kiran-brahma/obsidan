@@ -1,15 +1,18 @@
 ---
-title: About Me
-description: Get to know more about Kiran Brahma
+title: About Kiran Brahma
+description: Get to know more about Kiran Brahma detailing his education, work profile and hobbies
 ---
 
 ## Short Intro
-My path wasn’t typical - engineer turned MBA, then tackling diverse industries from infrastructure to clean-tech. From startups to running my own manpower services company, I’ve seen it all.
+
+My path wasn’t typical - engineer turned MBA, then tackling diverse industries from infrastructure to clean tech. 
+
+From startups to running my own manpower services company, I’ve seen it all.
 
 ![Kiran Brahma](https://res.cloudinary.com/dzmnxs9lz/image/upload/v1712225655/blog/Profile_1200x800_aj58l2.webp)
 
 ## Long Intro
-My journey might have started as the typical. I started with engineering from NIT Hamirpur and then went on to get my MBA from Indian School of Business.
+My journey might have started as the typical. I completed my engineering at [NIT Hamirpur](https://nith.ac.in) and then went on to get my MBA from the [Indian School of Business](https://isb,edu).
 
 However, my real education came from working across different industries - infrastructure, telecom, transportation, clean-tech - and across different company sizes - MNCs, startups, and even running my own business.
 
@@ -23,23 +26,24 @@ Because in this blog, I’m not going to share theoretical advice. I’m going t
 Think of it as war stories from the trenches, with actionable tips to help you win your battles.
 
 ### Education
-* Civil Engineering from NIT Hamirpur
-* MBA from Indian School of Business
+* Civil Engineering from [NIT Hamirpur](https://nith.ac.in) 
+* MBA from the  [Indian School of Business](https://isb,edu).
 
 ### Corporate Work Experience
-* L&T
-* Isolux Corsan
-* Reliance Jio
-* TaxiForSure
-* Ola
-* Acme Cleantech Solutions
+* [L&T ECC](https://lntecc.com)
+* [Isolux Corsan](http://www.isoluxcorsan.com/en)
+* [Reliance Jio](https://www.jio.com/)
+* [TaxiForSure](https://tracxn.com/d/companies/taxiforsure/__OJnhvVStomy0kWTNIn2HpfjZDAECqPYRlvxlkQ-NiDE)
+* [Ola](https://olacabs.com)
+* [Acme Cleantech Solutions](https://www.acme.in/)
 
+> 
 ### Entrepreneurial experience
 #### Articlus
-An interior design firm founded by four college friends in 2012 that has since completed over 50 residential and commercial projects, transforming empty spaces into stylish, functional environments that elevate the client experience through innovative design solutions and meticulous craftsmanship.
+An interior design firm founded by four college friends in 2012 that has since completed over 50 residential and commercial projects, transforming empty spaces into stylish, functional environments that elevate the client experience through innovative design solutions and meticulous craftsmanship. Currently this business 
 
-#### Insterstellar
-Started a last mile logistics and delivery business in 2018 utilising our own custom-designed two-wheelers and battery packs. Quit due to the untimely death of my father
+#### Interstellar
+Started a last-mile logistics and delivery business in 2018, utilising our own custom-designed two-wheelers and battery packs. I quit due to the untimely death of my father
 
 #### [Knighthood](https://knighthood.co)
 A security and staffing solutions business that was started in Jan 2014 by my father along with me. Since September 2019, I have been managing and growing this business on a full-time basis
@@ -51,9 +55,7 @@ Most resources focus on startups or big companies, but not those with smaller bu
 
 Over the past few years, I’ve managed to develop tech tools, processes and hacks that I expect will add value for fellow small business owners.
 
-Outside of work, I love travelling, photography, reading and music.
+Outside of work, I love travelling, photography, reading and music. I use the following [[gear| technology products]] in my daily life
 
-This blog is a work in progress. I plan to cover whatever topics catch my interest. I’ll organise posts so you can easily find what you’re here for.
-
-I write to share my experiences in hopes someone finds it useful while providing an inside look at running a small business.
+This blog is a work in progress. I plan to cover whatever topics catch my interest.
 

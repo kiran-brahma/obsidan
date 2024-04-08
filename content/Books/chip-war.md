@@ -6,6 +6,7 @@ draft: false
 tags:
   - Geo-Politics
   - Technology
+  - Books
 date: 2024-04-05
 ---
 

@@ -7,6 +7,7 @@ tags:
   - Startup
   - Lessons
   - Product-Market-Fit
+  - Books
 date: 2024-04-05
 ---
 ## About the Book

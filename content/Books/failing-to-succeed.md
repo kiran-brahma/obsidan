@@ -6,6 +6,7 @@ draft: false
 tags:
   - Startup
   - Failure
+  - Books
 date: 2024-04-05
 ---
 

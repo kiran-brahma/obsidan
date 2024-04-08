@@ -2,6 +2,9 @@
 title: Book Recommendation
 description: List of Books across diverse topics that I enjoyed reading and recommend to others to read. Updated monthly
 date: 2024-04-05
+tags:
+  - Reading
+  - Books
 ---
 
 # Recommended Reading
