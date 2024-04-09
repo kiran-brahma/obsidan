@@ -23,6 +23,6 @@ So, the valuable lesson I could gather from this study is:
 
 People are more inclined to accept your request if you utilize the word "because" and provide a rationale or explanation. For smaller requests, any reason will suffice. For more significant matters, the reason must be compelling.
 
-This study highlights an unconscious shortcut we often employ: a bias to comply with a request when it includes "because" followed by a reason. We pay attention to reason only when stakes are high, else we agree without much resistance.
+This study highlights an [[Mental Model|unconscious shortcut we often employ]]: a bias to comply with a request when it includes "because" followed by a reason. We pay attention to reason only when stakes are high, else we agree without much resistance.
 
 Undoubtedly, this insight will be a valuable addition to my arsenal the next time I need my wife to agree to a small request and see if it helps

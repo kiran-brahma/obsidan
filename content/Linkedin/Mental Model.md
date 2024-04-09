@@ -15,4 +15,4 @@ As he became more comfortable with his system, he was able to avoid overloading 
 
 We all have our decision-making systems, based on our past experiences, knowledge, and beliefs. However, we're often susceptible to common biases and beliefs, which can lead to poor decisions.
 
-Adopting simple mental models has proven effective for me personally in avoiding biases and speeding up my decision-making process.If you're looking to improve your decision-making,I encourage you to take a step back and develop your models. Incorporate basic checks to avoid past mistakes, and over time, your models will evolve, allowing you to make quick, good decisions. After all, that's what we're paid for.
+Adopting simple mental models has proven effective for me personally in avoiding biases and speeding up my decision-making process. If you're looking to improve your [[quick-decision|decision-making]], I encourage you to take a step back and develop your [[Mental Model|models]]. Incorporate basic checks to avoid past mistakes, and over time, your models will evolve, allowing you to make quick, good decisions. After all, that's what we're paid for.

@@ -15,7 +15,7 @@ Now, if a penalty is scored hen the goalkeeper stays put. We can imagine the fan
 
 This parallel extends to most of our professional lives, where individuals who prioritise immediate action receive applause over those who prefer thorough evaluation before making a move.
 
-While prompt action is sometimes necessary, taking a moment to reflect can lead to better results. Nonetheless, recognition typically gravitates toward those who act swiftly rather than those who deliberate.
+While [[changes|prompt action]] is sometimes necessary, taking a moment to reflect can lead to better results. Nonetheless, recognition typically gravitates toward those who act swiftly rather than those who deliberate.
 
 Even when we instinctively sense that waiting a bit longer might yield better results, most of us are inclined toward action. When our actions lead to failure, it can be easily attributed to uncertainty and external factors, clearing ourselves of any blame.
 

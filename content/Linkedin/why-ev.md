@@ -9,8 +9,8 @@ Every other day I keep reading why EVs are better than conventional cars, but mo
 
 After driving my MG ZS EV for 6000+ km over the last 4 months, here's what I learned:
 
-- In winter, expect a lower range by around 20-25%.
-- Since I do 99% of my driving within city limits, the range allows me to commute for 4-5 days without any worries. I made a trip to Chandigarh, requiring me to pause for 30 mins for a recharge, during which I took a break for food. Most joints that we generally pause have an EV charging, so it wasn’t challenge per se.
+- In winter, expect a lower range of around 20-25%.
+- Since I do 99% of my driving within city limits, the range allows me to commute for 4-5 days without any worries. I made a trip to Chandigarh, requiring me to pause for 30 minutes for a recharge, during which I took a break for food. Most joints that we generally pause have an EV charging, so it wasn’t a challenge per se.
 - To maximise regenerative braking, you need to adjust your driving style. Overall, driving an EV is similar to driving a conventional car, with the notable exception of the car's quietness.
 
 If you're interested in buying an electric vehicle but are hesitant due to the high cost, here's how I made my calculations to arrive at my final decision

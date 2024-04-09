@@ -8,12 +8,11 @@ tags:
 date: 2023-05-18
 ---
 
-
 Many entrepreneurs mistakenly think friends and family will be their first customers. While they offer initial support, few end up paying for your products/services.
 
 In 2012, When my father was contemplating starting his own business, friends promised opportunities but none became customers once operations commenced. Even today when I enquire about any possibility, they express why it's not currently possible and hope for good news soon
 
-A friend spent 5+ years becoming an expert in a niche field. Many of his friends continuously sought his expertise. I suggested charging as most companies have budgets. When he decided to start charging, friends said they'd initiate the process. Fast forward to today, my friend works monthly on 3-5 engagements. Interestingly, most of his initial friends are yet to engage his services.
+A friend spent 5+ years becoming an expert in a niche field. Many of his friends continuously sought his expertise. I suggested charging as most companies have budgets. When he decided to start charging, friends said they'd initiate the process. Fast forward to today, my friend works monthly on 3-5 engagements. Interestingly, most of his initial friends are yet to engage in his services.
 
 The same story repeats with other entrepreneurs I speak to:
 

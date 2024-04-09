@@ -7,7 +7,7 @@ tags:
   - Profitability
 date: 2023-05-31
 ---
-Gross margin is the difference between your revenue and the cost of your goods or services. It indicates how profitable your business is. The margins I recommend below are after accounting for your marketing and sales expenses.
+Gross margin is the difference between your revenue and the cost of your goods or services. It indicates how profitable your business is. The gross margins I recommend below are after accounting for your marketing and sales expenses.
 
 When starting, I was suggested to use margins from public companies as a reference. But I couldn't match those margins as I don't have the same structural benefits. Instead, those margins helped me to figure out how much customers are willing to pay for similar products or services.
 

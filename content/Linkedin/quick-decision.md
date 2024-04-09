@@ -16,7 +16,7 @@ When asked about the issues, I tried to explain my thought process. I was then q
 
 Later, when asked for feedback, I acknowledged that I had less work piling up and received positive feedback from the field team. My manager explained that in his 25+ year career, delaying decisions rarely leads to better outcomes. It is usually easier to course-correct than to delay. Teams appreciate not being left hanging for too long.
 
-Over time, I have adopted a simple mental model that I came across in a letter from Warren Buffet. It suggests that whenever you feel conflicted about a decision, choose one direction and then ask yourself three questions:
+Over time, I have adopted a simple [[Mental Model|mental model]] that I came across in a letter from Warren Buffet. It suggests that whenever you feel conflicted about a decision, choose one direction and then ask yourself three questions:
 
 1. How will you feel about it in 10 minutes from now?
 2. How will you feel about it in 10 months?

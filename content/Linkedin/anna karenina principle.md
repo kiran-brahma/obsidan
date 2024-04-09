@@ -13,7 +13,7 @@ Leo Tolstoy's Novel Anna Karenina starts with the line: "All happy families are 
 
 This simple quote carries quite a punch, leading to the maxim ["The Anna Karenina Principle."](https://en.wikipedia.org/wiki/Anna_Karenina_principle )
 
-In simple terms, success is due to the interplay of multiple factors. Trying to attribute it to one key element oversimplifies, hindering replication and hence failure.
+In simple terms, success is due to the interplay of multiple factors. [[swimmer-body-illusion|Trying to attribute]] it to one key element oversimplifies, hindering replication and hence failure.
 
 We can see this play out in business as companies attempt to mimic others and fail. Failed attempts often mirror key success factors of winners but not entirely. Each failure introduces new reasons, and much like unhappy families, each has its own unique story.
 
