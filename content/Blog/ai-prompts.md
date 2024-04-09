@@ -2,7 +2,7 @@
 title: AI Prompts I Use Regularly
 description: AI tools provide with lot of assistance but the key to utilising them is providing them with the correct Prompt. Here is a list of Prompts that I use daily
 aliases: 
-draft: true
+draft: false
 tags:
   - Technology
   - AI
@@ -23,7 +23,9 @@ date: 2024-04-08
 
 Below is a list of Prompts I use for undertaking various activities with the aid of AI. I don't recommend using AI to generate content as search engines can [tweak their algo anytime](https://indianexpress.com/article/technology/tech-news-technology/google-search-march-2024-core-update-9200252/), resulting in being pushed down the ranking if improving SEO is your goal
 
-However, in case you wish to use AI to draft your initial post based on research, [[humanise-ao-content|you can follow this approach]]
+However, in case you wish to use AI to draft your initial post based on research, [[humanise-ai-content-generation|you can follow this approach]]
+
+![ChatGPT Prompt Engineering](https://images.unsplash.com/photo-1677691824188-3e266886cb27?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 ## Prompts
 
 ### English Editor
@@ -91,6 +93,7 @@ Act as an English writing editor whose role is to review the text shared and edi
 - Finally present the writing content in the following manner while adopting the Minto Pyramid principle while using H1, H2, H3 and appropriate word count to ensure high SEO ranking in Google.
 - Share a 160 characters Key Takeaway and then 160 character Meta description
 
+![ChatGPT](https://images.unsplash.com/photo-1684487747720-1ba29cda82f8?q=80&w=3432&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 ### Linkedin
 
 - Generate 5 topics for LinkedIn about <profession or topic>.
