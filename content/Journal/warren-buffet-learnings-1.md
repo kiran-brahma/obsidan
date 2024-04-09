@@ -2,12 +2,12 @@
 title: Lessons From Warren Buffet Annual Shareholder Letters - Part 1
 description: A Summary of Key learnings gained from Warren Buffet Annual Shareholder Letters. This post focusses on Investments
 aliases: 
-draft: true
+draft: false
 tags:
   - Lessons
   - Business
   - Investments
-date: 2024-04-06
+date: 2024-04-08
 ---
 
 ## Introduction
