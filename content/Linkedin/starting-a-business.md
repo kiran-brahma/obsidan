@@ -3,6 +3,8 @@ title: Structuring your Side Hustle
 description: Starting your side hustle or Business while still working in a job with least hassles and compliance challenges
 tags:
   - Linkedin
+  - Compliance
+  - Startup
 date: 2024-04-09
 draft: false
 ---
