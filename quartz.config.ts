@@ -11,9 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Kiran Brahma",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { provider: 'google', tagId: 'G-PSG09JMPR6' },
     locale: "en-US",
     baseUrl: "kiranbrahma.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
