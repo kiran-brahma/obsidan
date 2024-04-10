@@ -6,11 +6,11 @@ tags:
   - Decision-Making
 date: 2023-08-19
 ---
-	
+
 
 In my first job at L&T, my Project Manager always made quick decisions when faced with problems. While this led to prompt action from the team, it often resulted in issues that needed fixing later on. As a result, I started to believe that quick decisions cause more problems than they solve.
 
-About a year into my job, I was overseeing project planning and client relations for Construction of the T1-T3 Underpass at Delhi Airport. Taking longer than usual to deliberate on matters led to a pile-up of work and complaints from the field staff.
+About a year into my job, I was overseeing project planning and client relations for the Construction of the T1-T3 Underpass at Delhi Airport. Taking longer than usual to deliberate on matters led to a pile-up of work and complaints from the field staff.
 
 When asked about the issues, I tried to explain my thought process. I was then questioned if my approach caused fewer problems, to which I had no clear answer. I was instructed to make every decision within a day for the next two weeks, and then review the outcomes.
 

@@ -198,8 +198,9 @@ The set of activities compromising of your marketing program
   - Retail Promotions: Provided by partners to get sales
 - Public Relations: Non-Paid Communication efforts. You spend to carry the activity but no expenses on media
 - Personal Selling: It happens via Sales Personnel
-- Design of Communication Mix: Decide whether you want to use to Push - inducing intermediaries to sell or Pull - Making end consumers to insist on buying
+- Design of Communication Mix: Decide whether you want to use to Push - inducing intermediaries to sell or Pull - Making end consumers insist on buying
 - Construction of the marketing mix is a complex process due to the numerous options available currently. You must focus on what works and observe if you can get any advantage in the same
+- Refer to [[customer communication]] to understand more about how to develop effective customer messaging
 
 ### Pricing
 
@@ -273,4 +274,24 @@ Understand the current structure of what key changes are happening across techno
 ### Performance Measurement
 Once your plan is in place ensure you have defined the key [[marketing-metrics|metrics]] to ensure that the key objectives of the plan are being met
 
+## Customer Messaging
+
+  Messaging needs to be designed on 2 Parameters
+
+  - **SOCO - Single Overriding Communication Objective:** The most important thing to communicate in your message.
+  - **SOCA - Single Overriding Communication Avoidance:** The one thing that needs to be avoided at all costs in your message. It can be a weakness or problem or any liability
+
+  Your key message should revolve around SOCO and aim to bring all responses to this key objective in the end.
+
+  ### Marketing Owl
+
+  For words to have meaning, one must be able to defend them. Repetition should be avoided, and sentences should be concise and clear.
+  
+
+  ![Marketing Own](https://i.imgur.com/zcmnvdP.png)
+
+  - Attributes: Describe yourself with impactful words. Pick adjectives that showcase your strengths and are memorable.
+  - In Action: Give priority to what you want to communicate externally.
+
+  Iteratively define your company's marketing strategy, as it is unique to each business and no universal guidelines exist.
 

@@ -1,6 +1,6 @@
 ---
 title: A Simple Guide for Validating New Business Ideas
-description: A Case study from my own business on how to validate a new business idea to achieve product market fir
+description: A Case study from my own business on how to validate a new business idea to achieve product market fit
 aliases: 
 draft: false
 tags:

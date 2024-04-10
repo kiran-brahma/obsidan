@@ -111,27 +111,7 @@ You can refer to my blog post on [Validating Business Ideas](https://kiranbrahma
   - Have multiple options and don't limit yourself to just a few.
   - Remember it is easier to fool people than to convince them that you have been fooled.
 
-  ## Customer Messaging
-
-  Messaging needs to be designed on 2 Parameters
-
-  - **SOCO - Single Overriding Communication Objective:** The most important thing to communicate in your message.
-  - **SOCA - Single Overriding Communication Avoidance:** The one thing that needs to be avoided at all costs in your message. It can be weakness or problem or any liability
-
-  Your key message should revolve around SOCO and aim to bring all responses to this key objective in the end.
-
-  ### Marketing Owl
-
-  For words to have meaning, one must be able to defend them. Repetition should be avoided, and sentences should be concise and clear.
   
-
-  ![Marketing Own](https://i.imgur.com/zcmnvdP.png)
-
-  - Attributes: Describe yourself with impactful words. Pick adjectives that showcase your strengths and are memorable.
-  - In Action: Give priority to what you want to communicate externally.
-
-  Iteratively define your company's marketing strategy, as it is unique to each business and no universal guidelines exist.
-
   ## Improve Decision Making
 
   We can improve our decision-making, drawing lessons from our past decisions by following these steps:

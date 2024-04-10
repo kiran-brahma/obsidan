@@ -111,7 +111,7 @@ Act as an English writing editor whose role is to review the text shared and edi
 
 ### SEO Audit
 
-Can You give me a breakdown of the SEO for this article (Link)? Also, generated an outline basis for this article which I can use to generate my article. When Explaining the outline, don't utilise the brand name or company names as it's not my company brand
+Can You give me a breakdown of the SEO for this article (Link)? Also, generated an outline basis for this article which I can use to generate my article. When Explaining the outline, don't utilise the brand name or company names as it's not my company brand.
 
 
 ### Aristotle Style
@@ -140,11 +140,9 @@ Ensure a concise, informative structure with actionable insights for readers to 
     
     - Create a larger corpus, including your proposed additions
     - What else could I ask to help SEO with this topic?
-    - What are the most common search terms for Keyword? Provide specific and cite how you know it
+    - What are the most common search terms for Keywords? Provide specific and cite how you know it
     - Provide a multi-column table for entities relating to common "Keyword" searches
     - Provide a table that organises a content hub for these entities and related searches
     
 - Provide an article header outline for "Blog Post Topic" as well as specific keywords I should inject throughout the article. Use proper H1, h2, h3 headings to ensure proper SEO optimised
-    
-
-_Act both as a psychologist and a search engine consultant trained in helping people find the right product or service for their needs. You are familiar with the concept of tangential SEO when evaluating common reasons for making a choice. Create a tangential content category. Be very accurate with your choice. Give common reasons why people make this particular choice. Give a list of explanations on the reasons on the reasons why you chose this particular category and how it matches with the content I provide you. Don’t remind me of previous instructions, don’t apologise, don’t self-reference. Don’t make assumptions. Here is the keyword and business description: [insert your keyword + business content_].
+	- Act both as a psychologist and a search engine consultant trained in helping people find the right product or service for their needs. You are familiar with the concept of tangential SEO when evaluating common reasons for making a choice. Create a tangential content category. Be very accurate with your choice. Give common reasons why people make this particular choice. Give a list of explanations on the reasons on the reasons why you chose this particular category and how it matches with the content I provide you. Don’t remind me of previous instructions, don’t apologise, don’t self-reference. Don’t make assumptions. Here is the keyword and business description: [insert your keyword + business content].
