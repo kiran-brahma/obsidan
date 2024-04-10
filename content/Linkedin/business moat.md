@@ -3,6 +3,10 @@ title: Developing Your Business Moat
 description: Having a game plan to ensure defensibility of your business from the start is important for long term sustainability
 tags:
   - Linkedin
+  - Business
+  - Startup
+  - Strategy
+  - Competition
 date: 2024-04-15
 draft: false
 ---

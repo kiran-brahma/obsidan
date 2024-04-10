@@ -36,7 +36,7 @@ A Summary of key insights on how to achieve a product market fit for a new busin
 
 - Getting the right product means finding the fit. It's not about the product launch, but reaching the point when your product is accepted, and customers are willing to pay for it. Don't scale before achieving market fit.
 
-  ![Product Market Fit](https://kiranbrahma.vercel.app/images/selection-illustration-QyMD.png)
+  ![Product Market Fit](https://images.unsplash.com/photo-1556155092-8707de31f9c4?q=80&w=2187&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 - Until you can find a fit, don't focus on the robustness of the product. Find the fit and then improve upon the product. You need to find a sustainable growth model and moat against competitors.
 
@@ -74,6 +74,7 @@ A Summary of key insights on how to achieve a product market fit for a new busin
 
 
 
-**
+---
+
 
 Refer to my blog post on  [[a-simple-guide-for-validating-new-business-ideas|validating new business ideas]] for a more detailed process based on my experience
