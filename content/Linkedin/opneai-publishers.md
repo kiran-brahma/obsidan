@@ -17,7 +17,7 @@ Now if a publisher signs up, they
 - Shape future responses to their Liking  
 ![](https://i.imgur.com/43zSpap.png)
 
-AI [[Mental Model|Bias]] is already a concern expressed due to biased training data but I expect it to move further down as many publishers [won't sign up]([https://lnkd.in/gNU7AwM3](https://lnkd.in/gNU7AwM3) or are not eligible. Those who sign up will have an edge in Search and brand perception over others.  
+AI [[Mental Model|Bias]] is already a concern expressed due to biased training data but I expect it to move further down as many publishers [won't sign up](https://lnkd.in/gNU7AwM3) or are not eligible. Those who sign up will have an edge in Search and brand perception over others.  
   
 It will be interesting to see how [OpenAI](https://www.linkedin.com/company/openai/) manages the program while trying to reduce bias in [ChatGPT](https://www.linkedin.com/company/chatgptbyopenai/)'s responses  
   
