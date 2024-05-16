@@ -19,7 +19,7 @@ Until now, my [[humanise-ai-content-generation|SEO]] strategy focused on:
 - **Attracting customers** through improved search rankings.
 - **Hoping** those interested would reach out.
 
-But soon AI-organised search results will change the game:
+But now AI-organised search results will change the game:
 - It's **not just about search rankings** anymore.
 - My business needs to be in the **top recommendations.**
 
