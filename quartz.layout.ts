@@ -48,6 +48,7 @@ export const defaultContentPageLayout: PageLayout = {
       
     
     }),
+    
   ),
   Component.DesktopOnly(
     Component.RecentNotes({
@@ -56,6 +57,17 @@ export const defaultContentPageLayout: PageLayout = {
       filter: (f) =>
         f.slug!.startsWith("Linkedin/") && f.slug! !== "Linkedin/index" && !f.frontmatter?.noindex,
       linkToMore: "Linkedin/" as SimpleSlug,
+      
+    
+    }),
+  ),
+  Component.DesktopOnly(
+    Component.RecentNotes({
+      title: "Study Guide",
+      limit: 2,
+      filter: (f) =>
+        f.slug!.startsWith("guides/") && f.slug! !== "guides/index" && !f.frontmatter?.noindex,
+      linkToMore: "guides/" as SimpleSlug,
       
     
     }),

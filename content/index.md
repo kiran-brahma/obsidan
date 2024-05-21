@@ -15,6 +15,7 @@ Head [[about|here]] if you want to know more about me.
 
  * I share my personal views and insights in my [[Blog/index|Blog]] section
  * A list of [[recommended-reading|books]] that I recommend for reading to my friends
+ * My Personal [[guides/index|Study Guides]] across different topics
  * Summary of key learnings from [[Books/index|books]] I read
  * A collection of [[Journal/index|business insights and tips]] I have collated over the years 
  * I post frequently on [LinkedIn](https://www.linkedin.com/in/kbrahma/). You can read some of my [[Linkedin/index|posts here]]

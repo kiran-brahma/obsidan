@@ -2,7 +2,7 @@
 title: "Mastering Sales Fundamentals: A Personal Learning Journey"
 description: Whether you're new to sales or looking to refine your skills, this guide offers a structured approach to understanding the sales process from start to finish.
 aliases: 
-draft: true
+draft: false
 tags:
   - Sales
   - Learning
@@ -37,7 +37,7 @@ Over the next few weeks, I'll be expanding on the details related to each topic 
 
 ## Developing Customer Understanding
 
-- **Topic:** Identifying Your [[Ideal Customer Profile]] (ICP)
+- **Topic:** Identifying Your Ideal Customer Profile (ICP)
     - **Fundamental Question:** 
 	    - What are the key characteristics of businesses that are most likely to benefit from your product?
 	    - How can you refine your ICP over time?
