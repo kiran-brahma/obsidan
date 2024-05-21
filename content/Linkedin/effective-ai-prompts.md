@@ -8,7 +8,7 @@ tags:
 date: 2024-05-20
 draft: false
 ---
-[Google](https://www.linkedin.com/company/google/) says the BEST prompts average are just 21 words long. Here I was drafting essays to get AI to provide me with good responses.  
+[Google](https://www.linkedin.com/company/google/) says the [[ai-prompts| BEST AI prompts]] average are just 21 words long. Here I was drafting essays to get AI to provide me with good responses.  
   
 Guess its time to ditch long essays for my AI Prompts  
   
@@ -19,7 +19,7 @@ If you find the guide too long read, here is the gist
 
 **Start Chatting:** Use multiple, progressive prompts instead of one massive one. Break tasks into bite-sized pieces.  
   
-**An Effective Prompts consists of **
+**An Effective Prompts consists of**
 ·  Persona (Who is the AI?)  
 ·  Task (What do you want it to do?)  
 ·   Context (Any relevant background info?)  
