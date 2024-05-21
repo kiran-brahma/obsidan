@@ -30,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(
       Component.RecentNotes({
       title: "Latest Post",
-      limit: 2,
+      limit: 1,
       filter: (f) =>
         f.slug!.startsWith("Blog/") && f.slug! !== "Blog/index" && !f.frontmatter?.noindex,
       linkToMore: "Blog/" as SimpleSlug,
@@ -53,7 +53,7 @@ export const defaultContentPageLayout: PageLayout = {
   Component.DesktopOnly(
     Component.RecentNotes({
       title: "Latest Linkedin Post",
-      limit: 2,
+      limit: 1,
       filter: (f) =>
         f.slug!.startsWith("Linkedin/") && f.slug! !== "Linkedin/index" && !f.frontmatter?.noindex,
       linkToMore: "Linkedin/" as SimpleSlug,
