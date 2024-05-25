@@ -29,11 +29,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(
       Component.RecentNotes({
-      title: "Latest Post",
+      title: "Latest Blog Post",
       limit: 1,
       filter: (f) =>
-        f.slug!.startsWith("Blog/") && f.slug! !== "Blog/index" && !f.frontmatter?.noindex,
-      linkToMore: "Blog/" as SimpleSlug,
+        f.slug!.startsWith("blog/") && f.slug! !== "blog/index" && !f.frontmatter?.noindex,
+      linkToMore: "blog/" as SimpleSlug,
       
     
     })
@@ -43,8 +43,8 @@ export const defaultContentPageLayout: PageLayout = {
       title: "Latest Book Summary",
       limit: 1,
       filter: (f) =>
-        f.slug!.startsWith("Books/") && f.slug! !== "Books/index" && !f.frontmatter?.noindex,
-      linkToMore: "Books/" as SimpleSlug,
+        f.slug!.startsWith("books/") && f.slug! !== "books/index" && !f.frontmatter?.noindex,
+      linkToMore: "books/" as SimpleSlug,
       
     
     }),
@@ -55,8 +55,8 @@ export const defaultContentPageLayout: PageLayout = {
       title: "Latest Linkedin Post",
       limit: 1,
       filter: (f) =>
-        f.slug!.startsWith("Linkedin/") && f.slug! !== "Linkedin/index" && !f.frontmatter?.noindex,
-      linkToMore: "Linkedin/" as SimpleSlug,
+        f.slug!.startsWith("linkedin/") && f.slug! !== "linkedin/index" && !f.frontmatter?.noindex,
+      linkToMore: "linkedin/" as SimpleSlug,
       
     
     }),
