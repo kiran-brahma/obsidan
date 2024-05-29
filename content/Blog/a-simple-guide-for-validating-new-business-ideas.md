@@ -17,6 +17,7 @@ date: 2024-04-05
 - Acknowledge customer apprehensions and guarantee that new solutions are compatible with their existing workflows.
 - Target engagement towards customers who demonstrate a real interest and whose budgetary limitations align, concentrating on those with a higher propensity to commit.
 
+
 ## Introduction
 
 Every other day a new idea keeps popping into my head on how I can launch a new service within the context of my [business.](https://knighthood.co) Now when you are flush with new ideas, the challenge is not generating enough ideas but is the idea is good for solving a Tier 1 Problem or not. Over the years, I have realised that most new ideas launched failed due to it not being a Tier 1 Problem.
