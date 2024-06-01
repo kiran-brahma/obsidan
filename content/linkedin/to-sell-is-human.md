@@ -1,6 +1,6 @@
 ---
 title: "Book Recommendation: To Sell is Human"
-description: 
+description: Sales in the modern era is more about influencing others and guiding rather than old school sales tactics
 tags:
   - Linkedin
   - Sales
