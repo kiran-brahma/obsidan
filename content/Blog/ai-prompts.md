@@ -8,7 +8,7 @@ tags:
   - AI
 date: 2024-04-08
 ---
-# Why Prompt
+## Why Prompt
 
 
 - Base LLM

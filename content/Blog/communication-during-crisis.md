@@ -10,6 +10,8 @@ tags:
 date: 2024-04-05
 ---
 
+![](https://i.imgur.com/bjTlQ1s.png)
+
 ## Key takeaways
 
 1.  **Act swiftly:** Waiting is not an option during crises; prompt action is necessary.
