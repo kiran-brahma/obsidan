@@ -4,11 +4,20 @@ description: Welcome to Kiran Brahma's personal website
 ---
 # Hey there! 👋
 
+Welcome to my little corner of the internet, where I'll be pulling back the curtain on my entrepreneurial journey – the triumphs, the stumbles, and everything in between.
 
-**Are you feeling lost in all that start-up and funding talk?** Most startup and business blogs are full of it, but what about those already in the game?
+We all have a list of half-baked ideas, eagerly awaiting their _aha_ moment. This blog is my digital playground where I attempt to create more such moments, consisting of:
 
-Join me as I share my journey and the tools I use to keep my small business thriving.
+- My collection of thoughts and ideas on entrepreneurship
+- Lessons I'm learning (often the hard way)
+- Startup strategies
+- Tech trends to musings on productivity
+- Snapshots from my photography adventures
+- Random rabbit holes I couldn't resist diving into
 
+![Kiran Brahma Blog](https://i.imgur.com/Olmi2mS.png)
+
+Most writing will be in short notes, focusing on a single idea, which at first glance might seem random. Research into how our brains works [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181994/) has shown that such scattered thoughts, when connected, can lead to surprising and delightful discoveries.
 ## Getting Around
 
 Head [[about|here]] if you want to know more about me.
