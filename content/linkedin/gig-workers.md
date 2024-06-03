@@ -3,8 +3,8 @@ title: How Gig Model has resulted in Higher Labour Costs
 description: Empowered by online platforms, many skilled workforce have abandoned traditional jobs, shrinking the available talent pool
 tags:
   - Linkedin
-  - staffing
   - Gig-Economy
+  - Staffing
 date: 2024-05-27
 draft: false
 ---
