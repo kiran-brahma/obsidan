@@ -1,6 +1,7 @@
 ---
 title: About Kiran Brahma
 description: Get to know more about Kiran Brahma detailing his education, work profile and hobbies
+dg-publish: true
 ---
 
 ## Short Intro

@@ -3,6 +3,7 @@ title: My Technology Gear
 description: Current Technology  Products  that I use in my daily life
 tags:
   - Technology
+dg-publish: true
 ---
 ![My Tech Gear](https://i.imgur.com/cnlv5VA.png)
 

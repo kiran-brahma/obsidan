@@ -1,6 +1,8 @@
 ---
 title: Kiran Brahma
 description: Welcome to Kiran Brahma's personal website
+dg-home: true
+dg-publish: true
 ---
 # Hey there! 👋
 
