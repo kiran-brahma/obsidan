@@ -44,7 +44,7 @@ This document provides everyone with clarity during the development of marketing
 ### Messaging
 
 - Key Takeaways that need to be internalised
-- Define your [[customer communication]] strategy
+- Define your [[Journal/customer communication]] strategy
 - Your Tagline
 
 ### Current Perception

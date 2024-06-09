@@ -77,4 +77,4 @@ A Summary of key insights on how to achieve a product market fit for a new busin
 ---
 
 
-Refer to my blog post on  [[a-simple-guide-for-validating-new-business-ideas|validating new business ideas]] for a more detailed process based on my experience
+Refer to my blog post on  [[Blog/a-simple-guide-for-validating-new-business-ideas|validating new business ideas]] for a more detailed process based on my experience

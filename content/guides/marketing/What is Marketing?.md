@@ -62,7 +62,7 @@ This journey involves a series of key decisions across various aspects of your b
 
 - **Distribution Strategy:** This focuses on making your product or service readily available to customers at the right time and place. Key decisions involve choosing the right distribution channels, managing logistics for smooth delivery, and optimising inventory to meet demand.
 
-- **[[Customer Communication|Promotion Strategy]]:** Effectively communicating your value proposition is key. This includes advertising campaigns, public relations, sales promotions, and personal selling. The goal is to raise awareness, generate interest, and ultimately drive purchases.
+- **[[guides/marketing/Customer Communication|Promotion Strategy]]:** Effectively communicating your value proposition is key. This includes advertising campaigns, public relations, sales promotions, and personal selling. The goal is to raise awareness, generate interest, and ultimately drive purchases.
 
 #### The Evolving Landscape of Marketing: Data-Driven and Accountable
 

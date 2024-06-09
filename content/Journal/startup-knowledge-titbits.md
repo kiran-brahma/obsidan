@@ -20,7 +20,7 @@ I usually keep making notes on any interesting ideas or insights along with my l
   - As a new firm, focus on reducing barriers to ensure faster adoption.
   - For big firms with a loyal customer base, it may be necessary to force some changes in customer behaviour, as this can lead to increased loyalty and adoption. For example, Apple's removal of the headphone jack in iPhone and USB-C port for Laptops
 
-Refer to my blog post on  [[a-simple-guide-for-validating-new-business-ideas|validating new business idea]] to understand more on the process
+Refer to my blog post on  [[Blog/a-simple-guide-for-validating-new-business-ideas|validating new business idea]] to understand more on the process
 ## Understanding Competition
 
 - Competition is for losers
@@ -67,7 +67,7 @@ Refer to my blog post on  [[a-simple-guide-for-validating-new-business-ideas|val
 
 - In network markets, you can only attempt to generate revenue from alternative sources when your core product is cashflow positive. Your alternative sources are dependent on your core market, so if you're losing money in the core market, it will be difficult to achieve overall profitability.
 
-You can refer to [note on product market fit](/journal/product-market-fit) for insights from other founders
+You can refer to [note on product market fit](product-market-fit.md) for insights from other founders
 
 You can refer to my blog post on [Validating Business Ideas](https://kiranbrahma.com/blog//a-simple-guide-for-validating-new-business-ideas) for more in-depth understanding related to the process
 

@@ -9,7 +9,7 @@ date: 2024-04-09
 draft: false
 ---
   
-So you've got a brilliant [[a-simple-guide-for-validating-new-business-ideas|business idea and keen to build it]] on the side. Your basic product or service is ready and even obtained a few paying customers. Now most would jump straight to start a Private Limited form. But is this the best way forward?
+So you've got a brilliant [[Blog/a-simple-guide-for-validating-new-business-ideas|business idea and keen to build it]] on the side. Your basic product or service is ready and even obtained a few paying customers. Now most would jump straight to start a Private Limited form. But is this the best way forward?
  
 There's a simpler way to start:
 - Consider a proprietorship (for solo ventures) or a partnership (for a team of 2 or more)

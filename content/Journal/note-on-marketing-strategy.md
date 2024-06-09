@@ -200,7 +200,7 @@ The set of activities compromising of your marketing program
 - Personal Selling: It happens via Sales Personnel
 - Design of Communication Mix: Decide whether you want to use to Push - inducing intermediaries to sell or Pull - Making end consumers insist on buying
 - Construction of the marketing mix is a complex process due to the numerous options available currently. You must focus on what works and observe if you can get any advantage in the same
-- Refer to [[customer communication]] to understand more about how to develop effective customer messaging
+- Refer to [[Journal/customer communication]] to understand more about how to develop effective customer messaging
 
 ### Pricing
 
