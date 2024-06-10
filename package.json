@@ -100,7 +100,7 @@
     "@types/source-map-support": "^0.5.10",
     "@types/ws": "^8.5.10",
     "@types/yargs": "^17.0.32",
-    "esbuild": "^0.21.4",
+    "esbuild": "^0.21.5",
     "postcss-import": "^16.1.0",
     "prettier": "^3.3.1",
     "tsx": "^4.14.0",
