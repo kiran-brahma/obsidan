@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -81,8 +81,8 @@ dependencies:
     specifier: ^10.22.0
     version: 10.22.0
   preact-render-to-string:
-    specifier: ^6.5.4
-    version: 6.5.4(preact@10.22.0)
+    specifier: ^6.5.5
+    version: 6.5.5(preact@10.22.0)
   pretty-bytes:
     specifier: ^6.1.1
     version: 6.1.1
@@ -3211,8 +3211,8 @@ packages:
       source-map-js: 1.2.0
     dev: true
 
-  /preact-render-to-string@6.5.4(preact@10.22.0):
-    resolution: {integrity: sha512-06s0E3cEMLoXQznmtJ/K/xbFs3uwo52Qpgf8lzbe+VbF/XzwJ0LxZGtVLZekhaEeC39+W1MEf05F4lUikzPnxA==}
+  /preact-render-to-string@6.5.5(preact@10.22.0):
+    resolution: {integrity: sha512-KiMFTKNTmT/ccE79BURR/r6XRc2I2TCTZ0MpeWqHW2XnllbeghXvwGsdAfF/MzMilUcTfODtSmMxgoRFL9TM5g==}
     peerDependencies:
       preact: '>=10'
     dependencies:
